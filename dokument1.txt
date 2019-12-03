@@ -1,1 +1,1 @@
-Tento dokument bol vytvoreny len na potreby na SWI.
+Tento dokument bol vytvoreny len pre potreby na SWI.
